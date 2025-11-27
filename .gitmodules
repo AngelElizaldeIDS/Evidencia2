@@ -1,0 +1,9 @@
+[submodule "Actividad5_MenuLateral"]
+	path = Actividad5_MenuLateral
+	url = https://github.com/AngelElizaldeIDS/ACT05_MenuLateral
+[submodule "Actividad6_MenuOpciones"]
+	path = Actividad6_MenuOpciones
+	url = https://github.com/AngelElizaldeIDS/ACT06_MenuOpcionesApp
+[submodule "Actividad8_Listados"]
+	path = Actividad8_Listados
+	url = https://github.com/AngelElizaldeIDS/ACT08_Listados
