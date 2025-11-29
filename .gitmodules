@@ -7,3 +7,6 @@
 [submodule "Actividad8_Listados"]
 	path = Actividad8_Listados
 	url = https://github.com/AngelElizaldeIDS/ACT08_Listados
+[submodule "Actividad7_MyMovies"]
+	path = Actividad7_MyMovies
+	url = https://github.com/AngelElizaldeIDS/Actividad-7---My-Movies.git
